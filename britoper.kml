@@ -13,4 +13,11 @@
       <coordinates>32.83,-116.97</coordinates>
     </Point>
   </Placemark>
+  </Placemark>
+    <name>KRNM</name>
+    <description>Ramona</description>
+    <Point>
+      <coordinates>33.04,-116.92</coordinates>
+    </Point>
+  </Placemark>
 </kml>
