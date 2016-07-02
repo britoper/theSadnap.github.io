@@ -4,20 +4,20 @@
     <name>KMYF</name>
     <description>Montgomery Gibbs Executive</description>
     <Point>
-      <coordinates>32.82,-117.14</coordinates>
+      <coordinates>-117.14,32.82</coordinates>
     </Point>
   </Placemark>
     <name>KSEE</name>
     <description>Gillespie Field</description>
     <Point>
-      <coordinates>32.83,-116.97</coordinates>
+      <coordinates>-116.97,32.83</coordinates>
     </Point>
   </Placemark>
   </Placemark>
     <name>KRNM</name>
     <description>Ramona</description>
     <Point>
-      <coordinates>33.04,-116.92</coordinates>
+      <coordinates>-116.92,33.04</coordinates>
     </Point>
   </Placemark>
 </kml>
