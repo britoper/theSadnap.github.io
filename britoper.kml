@@ -7,13 +7,14 @@
       <coordinates>-117.14,32.82,0</coordinates>
     </Point>
   </Placemark>
+  <Placemark>
     <name>KSEE</name>
     <description>Gillespie Field</description>
     <Point>
       <coordinates>-116.97,32.83,0</coordinates>
     </Point>
   </Placemark>
-  </Placemark>
+  <Placemark>
     <name>KRNM</name>
     <description>Ramona</description>
     <Point>
